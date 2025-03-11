@@ -9,7 +9,8 @@ Panasonic Advanced Technology is committed to creating innovative software and h
 ## 🔥 Our Key Projects
 
 - **@mobi** – Our proprietary **autonomous mobility software**, designed for seamless integration with AMRs (Autonomous Mobile Robots) to enhance industrial automation.
-- **@seguro wes -  Wireless Emergency Stop System** – A highly reliable **safety solution** adopted in many production sites.
+- **@seguro wes –  Wireless Emergency Stop System** – A highly reliable **safety solution** adopted in many production sites.
+- **Embedded Software Development** – We develop advanced systems such as automotive ADAS ECU, iot edge devices, iot cloud systems, etc.
 
 ## 📌 Featured Repositories
 We are working on several open-source and proprietary projects. Check out our pinned repositories for our latest contributions!
